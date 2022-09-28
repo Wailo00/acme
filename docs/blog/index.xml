@@ -14,7 +14,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>https://example.org/blog/primero/</guid>
-      <description>El primer archivo del apartado de blogs.</description>
+      <description>Primero El primer archivo del apartado de blogs.
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</description>
     </item>
     
     <item>
@@ -23,7 +24,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>https://example.org/blog/segundo/</guid>
-      <description>El segundo archivo del apartado de blogs.</description>
+      <description>Segundo El segundo archivo del apartado de blogs.
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</description>
     </item>
     
     <item>
@@ -32,7 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>https://example.org/blog/tercero/</guid>
-      <description>El tercero archivo del apartado de blogs.</description>
+      <description>Tercero El tercero archivo del apartado de blogs.
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</description>
     </item>
     
   </channel>
