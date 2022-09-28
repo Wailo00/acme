@@ -1,3 +1,4 @@
-<footer>
-    <small>&copy; {{now.Format "2022"}} Yo.</small>
-  </footer>
+<footer  class="text-center">
+  <small>&copy; {{ now.Year }} Yo.</small>
+  {{- partial "variables.html" . -}}
+</footer>
