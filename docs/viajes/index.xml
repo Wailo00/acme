@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on Acme Corporation</title>
+    <link>https://example.org/viajes/</link>
+    <description>Recent content in Viajes on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 09:42:56 +0200</lastBuildDate><atom:link href="https://example.org/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jhghf</title>
+      <link>https://example.org/viajes/robbin/</link>
+      <pubDate>Wed, 21 Sep 2022 09:42:56 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/robbin/</guid>
+      <description>Hola Buenas tardes mi nombre es PEPOPIN</description>
+    </item>
+    
+    <item>
+      <title>Senor</title>
+      <link>https://example.org/viajes/senor/</link>
+      <pubDate>Wed, 21 Sep 2022 09:42:56 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/senor/</guid>
+      <description>senor El señor de la noche Soy mitad hombre, mitad animal El señor de la noche Mejor escapa o te va a matar El señor de la noche Con tu corazón no deberías jugar A mí, a mí</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/viajes/joker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>https://example.org/viajes/joker/</guid>
+      <description>Hola Buenas tardes mi nombre es PEPOTE</description>
+    </item>
+    
+  </channel>
+</rss>
