@@ -15,7 +15,7 @@ menu:
   main: 
     - identifier: senor 
       name: Señor
-      url: /viajes/senor 
+      url: /viajes 
       weight: 40 
     - identifier: blog 
       name: Blog
