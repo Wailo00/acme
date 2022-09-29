@@ -19,15 +19,15 @@ menu:
       weight: 40 
     - identifier: blog 
       name: Blog
-      url: /blog
+      url: /blog/acme
       weight: 50 
     - identifier: about 
       name: Acerca de 
-      url: /about 
+      url: /about/acme
       weight: 100 
     - identifier: contact
       name: Contacto 
-      url: /contacto 
+      url: /contacto/acme
       weight: 200 
 
 params: 
