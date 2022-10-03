@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="container">
+    <h1 class="titulo">{{ .Title }}</h1>
+    {{ .Content }}
+
+
+
+    <ol class="list-group">
+        {{ range .Site.Data.datos_pelis }}
+        <li class="list-group-item">
+            <img src="{{ .img }}" alt="{{ .titulo }}"> {{ .ranking }}. <a href="https://www.imdb.com/%7B%7B .url }}"
+                target="_blank">{{ .titulo }}</a>
+
+         <!--   ({{ .year }})
+            <img src="https://iconarchive.com/download/i80657/custom-icon-design/flatastic-2/star-full.ico"
+                width="12px">{{ .rating }}
+                -->
+        </li>
+        {{ end }}
+    </ol>
+
+</div>
+
+{{ end }}

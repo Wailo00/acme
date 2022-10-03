@@ -19,16 +19,21 @@ menu:
       weight: 40 
     - identifier: blog 
       name: Blog
-      url: /blog/acme
+      url: /blog
       weight: 50 
     - identifier: about 
       name: Acerca de 
-      url: /about/acme
+      url: /about
       weight: 100 
     - identifier: contact
       name: Contacto 
-      url: /contacto/acme
+      url: /contacto
       weight: 200 
+    - identifier: Peliculas
+      name: peliculas 
+      url: /peliculas
+      weight: 200 
+
 
 params: 
   colorPickerEnabled: true
