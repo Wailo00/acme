@@ -32,7 +32,11 @@ menu:
     - identifier: Peliculas
       name: peliculas 
       url: /peliculas
-      weight: 200 
+      weight: 100 
+    - identifier: Localidad
+      name: localidad 
+      url: /localidad
+      weight: 100
 
 
 params: 
